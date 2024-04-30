@@ -111,13 +111,14 @@ a {
 #tv {
   text-align: center;
   padding-top: 40px;
-  background-image: url(images/images/home/apple-tv-background#jpg);
+  background-image: url(images/images/home/apple-tv-background.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   width: 50%;
   border: 5px solid white;
 }
+/* comment for change */
 #airpod {
   text-align: center;
   color: aliceblue;
